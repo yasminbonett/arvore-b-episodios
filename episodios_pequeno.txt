@@ -1,0 +1,10 @@
+101;Pilot;43;8.2
+111;Red John's Friends;43;8.4
+123;Red John's Footsteps;43;8.7
+208;His Red Right Hand;43;9.2
+223;Red Sky in the Morning;43;8.7
+303;The Blood on His Hands;43;8.1
+309;Red Moon;43;8.2
+310;Jolly Red Elf;43;7.6
+316;Red Queen;43;8.7
+320;Redacted;43;7.8

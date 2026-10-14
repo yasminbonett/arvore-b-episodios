@@ -1,0 +1,38 @@
+101;Pilot;43;8.2
+111;Red John's Friends;43;8.4
+123;Red John's Footsteps;43;8.7
+208;His Red Right Hand;43;9.2
+223;Red Sky in the Morning;43;8.7
+303;The Blood on His Hands;43;8.1
+309;Red Moon;43;8.2
+310;Jolly Red Elf;43;7.6
+316;Red Queen;43;8.7
+320;Redacted;43;7.8
+323;Strawberries and Cream, Part I;43;9.0
+401;Scarlet Ribbons;43;8.7
+402;Little Red Book;43;8.1
+407;Blinking Red Light;43;9.2
+411;Always Bet on Red;43;7.9
+413;Red Is the New Black;43;7.6
+416;His Thoughts Were Red Thoughts;43;7.9
+417;Cheap Burgundy;43;7.8
+423;Red Rover, Red Rover;43;8.6
+424;The Crimson Hat;43;9.1
+501;The Crimson Ticket;43;8.3
+502;Devil's Cherry;43;8.9
+505;Red Dawn;43;8.7
+508;Red Sails in the Sunset;43;8.7
+509;Black Cherry;43;7.4
+513;The Red Barn;43;8.4
+516;There Will Be Blood;43;8.5
+518;Behind the Red Curtain;43;7.5
+519;Red Letter Day;43;7.4
+522;Red John's Rules;43;8.8
+601;The Desert Rose;43;8.7
+602;Black-Winged Redbird;43;8.3
+603;Wedding in Red;43;8.2
+604;Red Listed;43;8.7
+605;The Red Tattoo;43;8.3
+606;Fire and Brimstone;43;9.2
+607;The Great Red Dragon;43;9.0
+608;Red John;43;7.9
